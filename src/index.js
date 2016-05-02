@@ -4,7 +4,7 @@ import config from '../configUntracked';
 
 import SearchBar from './components/search_bar';
 
-const API_KEY = config.YOUTUBE_API_KEY; // TODO: Update configUntracked.js file on desktop computer
+const API_KEY = config.YOUTUBE_API_KEY;
 
 const App = () => {
     return (
